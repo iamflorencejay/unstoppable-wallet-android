@@ -87,6 +87,7 @@ class AppConfigProvider {
             Currency("HKD", "HK$", 2),
             Currency("ILS", "₪", 2),
             Currency("JPY", "¥", 2),
+            Currency("PHP", "₱", 2),
             Currency("RUB", "₽", 2),
             Currency("SGD", "S$", 2),
             Currency("USD", "$", 2),
